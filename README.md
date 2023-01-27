@@ -4,5 +4,5 @@ SQL - язык программирования, который предназн
 Я использую СУБД MSSQL и MySQL
 
 Темы:
-1. Запросы
-2. Фильтрация
+1. [Запросы](https://github.com/Barsuchek/SQL-theory/blob/main/Info/Запросы.md)
+2. [Фильтрация](https://github.com/Barsuchek/SQL-theory/blob/main/Info/Фильтрация.md)
