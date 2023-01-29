@@ -10,3 +10,5 @@ DROP TABLE Название_Таблицы; --Удаление таблицы
 ALTER TABLE Test ADD Address VARCHAR(80); --Изменение таблицы Test, добавление в нее столбца Address с типом данных VARCHAR и ограничением длинны (80)
 
 ALTER TABLE Test DROP COLUMN Address; --Изменение таблицы Test, удаление из нее столбца Address
+
+ALTER TABLE Test CHANGE Names Imya VARCHAR(30); --Изменение таблицы Test, изменение имени поля Names на Imya и изменение ограничения длины символов
