@@ -5,6 +5,7 @@ SQL - язык программирования, который предназн
 
 Темы:
 1. [СУБД](https://github.com/Barsuchek/SQL-theory/blob/main/Info/СУБД.md)
-2. [Создание БД, таблиц, и работа с ними](https://github.com/Barsuchek/SQL-theory/blob/main/Info/СозданиеБД.md)
-3. [Добавление, обновление и удаление записей в БД](https://github.com/Barsuchek/SQL-theory/blob/main/Info/ЗаписиБД.md)
-4. [Выборка данных из БД](https://github.com/Barsuchek/SQL-theory/blob/main/Info/ВыборкаДанных.md)
+2. [Виды операторов и условий](https://github.com/Barsuchek/SQL-theory/blob/main/Info/Виды.md)
+3. [Создание БД, таблиц, и работа с ними](https://github.com/Barsuchek/SQL-theory/blob/main/Info/СозданиеБД.md)
+4. [Добавление, обновление и удаление записей в БД](https://github.com/Barsuchek/SQL-theory/blob/main/Info/ЗаписиБД.md)
+5. [Выборка данных из БД](https://github.com/Barsuchek/SQL-theory/blob/main/Info/ВыборкаДанных.md)
