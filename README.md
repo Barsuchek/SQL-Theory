@@ -12,3 +12,4 @@ SQL - язык программирования, который предназн
 4. [Добавление, обновление и удаление записей в БД](https://github.com/Barsuchek/SQL-theory/blob/main/Info/ЗаписиБД.md)
 5. [Выборка данных из БД](https://github.com/Barsuchek/SQL-theory/blob/main/Info/ВыборкаДанных.md)
 6. [Создание индексов и работа с ними](https://github.com/Barsuchek/SQL-theory/blob/main/Info/Индексы.md)
+7. [Объединение данных](https://github.com/Barsuchek/SQL-theory/blob/main/Info/ОбъединениеДанных.md)
