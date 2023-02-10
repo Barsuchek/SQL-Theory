@@ -6,10 +6,10 @@ SQL - язык программирования, который предназн
 Я использую СУБД MSSQL и MySQL
 
 Темы:
-1. [СУБД](https://github.com/Barsuchek/SQL-theory/blob/main/Info/СУБД.md)
-2. [Виды сравнений и операторов](https://github.com/Barsuchek/SQL-theory/blob/main/Info/Виды.md)
-3. [Создание БД, таблиц, и работа с ними](https://github.com/Barsuchek/SQL-theory/blob/main/Info/СозданиеБД.md)
-4. [Добавление, обновление и удаление записей в БД](https://github.com/Barsuchek/SQL-theory/blob/main/Info/ЗаписиБД.md)
-5. [Выборка данных из БД](https://github.com/Barsuchek/SQL-theory/blob/main/Info/ВыборкаДанных.md)
-6. [Создание индексов и работа с ними](https://github.com/Barsuchek/SQL-theory/blob/main/Info/Индексы.md)
-7. [Объединение данных](https://github.com/Barsuchek/SQL-theory/blob/main/Info/ОбъединениеДанных.md)
+* [СУБД](https://github.com/Barsuchek/SQL-theory/blob/main/Info/СУБД.md)
+* [Виды сравнений и операторов](https://github.com/Barsuchek/SQL-theory/blob/main/Info/Виды.md)
+* [Создание БД, таблиц, и работа с ними](https://github.com/Barsuchek/SQL-theory/blob/main/Info/СозданиеБД.md)
+* [Добавление, обновление и удаление записей в БД](https://github.com/Barsuchek/SQL-theory/blob/main/Info/ЗаписиБД.md)
+* [Выборка данных из БД](https://github.com/Barsuchek/SQL-theory/blob/main/Info/ВыборкаДанных.md)
+* [Создание индексов и работа с ними](https://github.com/Barsuchek/SQL-theory/blob/main/Info/Индексы.md)
+* [Объединение данных](https://github.com/Barsuchek/SQL-theory/blob/main/Info/ОбъединениеДанных.md)
