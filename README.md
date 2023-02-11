@@ -14,3 +14,4 @@ SQL - язык программирования, который предназн
 * [Создание индексов и работа с ними](https://github.com/Barsuchek/SQL-theory/blob/main/Info/Индексы.md)
 * [Объединение данных](https://github.com/Barsuchek/SQL-theory/blob/main/Info/ОбъединениеДанных.md)
 * [Псевдонимы, функции и Group By](https://github.com/Barsuchek/SQL-theory/blob/main/Info/ПсевдонимыФункции.md)
+* [Хранимые процедуры](https://github.com/Barsuchek/SQL-theory/blob/main/Info/ХранимыеПроцедуры.md)
