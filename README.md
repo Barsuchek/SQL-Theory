@@ -17,3 +17,4 @@ SQL - язык программирования, который предназн
 * [Хранимые процедуры](https://github.com/Barsuchek/SQL-theory/blob/main/Info/ХранимыеПроцедуры.md)
 * [Триггеры](https://github.com/Barsuchek/SQL-theory/blob/main/Info/Триггеры.md)
 * [Представления](https://github.com/Barsuchek/SQL-theory/blob/main/Info/Представления.md)
+* [Диаграммы БД](https://github.com/Barsuchek/SQL-theory/blob/main/Info/Диаграммы.md)
