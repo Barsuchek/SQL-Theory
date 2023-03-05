@@ -18,3 +18,4 @@ SQL - язык программирования, который предназн
 10. [Триггеры](https://github.com/Barsuchek/SQL-theory/blob/main/Info/Триггеры.md)
 11. [Представления](https://github.com/Barsuchek/SQL-theory/blob/main/Info/Представления.md)
 12. [Диаграммы БД](https://github.com/Barsuchek/SQL-theory/blob/main/Info/Диаграммы.md)
+13. [Нормализация отношений. Шесть нормальных форм](https://github.com/Barsuchek/SQL-theory/blob/main/Info/НормализацияОтношений.md)
